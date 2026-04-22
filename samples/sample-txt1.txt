@@ -1,0 +1,24 @@
+Alice: Good morning everyone. Let's get started. Today we're discussing the launch plan for version 2.0.
+Bob: Sure. I think we should target the launch for the last week of May.
+Carol: Agreed. We decided to go with May 28th as the official launch date.
+Alice: Great. Bob, can you make sure the staging environment is ready by May 15th?
+Bob: Yes, I will set up the staging environment by May 15th.
+David: We also need to finalize the marketing page before that. I will handle the landing page redesign by May 10th.
+Carol: We approved the new pricing model last week. We're going with the freemium tier plus a $29 pro plan.
+Alice: Confirmed. We'll proceed with the freemium plus pro pricing structure.
+Bob: I need to coordinate with the DevOps team regarding the deployment pipeline. I will schedule that meeting by this Friday.
+Carol: She mentioned earlier that the QA cycle needs at least two weeks. So testing should start by May 13th.
+David: He will send the final design assets to the frontend team by May 8th.
+Alice: We agreed to use AWS for hosting the new release. Carol, can you prepare the infrastructure checklist by next Monday?
+Carol: Yes, I will prepare the AWS infrastructure checklist by Monday.
+Bob: We decided to drop IE11 support for version 2.0. No more legacy browser fixes.
+Alice: Good call. David, please update the browser compatibility docs accordingly.
+David: I will update the compatibility documentation by end of this week.
+Alice: Alright. Let's also agree on the rollback plan. We resolved to keep version 1.9 live for two weeks post-launch as a safety net.
+Bob: That makes sense. I will document the rollback procedure by May 12th.
+Carol: We should also set up error monitoring before launch. We agreed to use Sentry for that.
+Alice: Confirmed. Bob, you're responsible for integrating Sentry into the production build.
+Bob: Got it. I will complete the Sentry integration by May 18th.
+Alice: Perfect. Let's wrap up. Key launch date is May 28th, staging ready by May 15th, and all docs finalized by May 20th.
+Carol: Agreed. We'll reconvene next Wednesday to check on progress.
+Alice: Sounds good. Meeting adjourned.

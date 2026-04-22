@@ -1,0 +1,24 @@
+Priya: Okay everyone, we need to finalize our NLP project plan today. We only have six weeks left.
+Rahul: I think we should build the meeting transcript analyzer. It covers parsing, summarization, and extraction which fits all the requirements.
+Sneha: Agreed. We decided to go with the meeting transcript analyzer as our final project topic.
+Priya: Good. Let's split the work. Rahul, can you handle the NLP pipeline?
+Rahul: Yes, I will take care of the NLP pipeline including summarization and extraction modules.
+Sneha: I will build the React frontend and the results dashboard.
+Priya: And I will handle the FastAPI backend and API integration.
+Rahul: We need a dataset. I think AMI Corpus is the best option for this.
+Sneha: Confirmed. We'll use the AMI Meeting Corpus for training and evaluation.
+Priya: Rahul, can you download and preprocess the AMI data by this Sunday?
+Rahul: Yes, I will have the dataset ready and preprocessed by Sunday.
+Sneha: We should also write the project report alongside development. We agreed to maintain a shared Google Doc for documentation.
+Priya: Good idea. She will create the shared doc and set up the outline by tomorrow.
+Sneha: I will create and share the Google Doc by tomorrow evening.
+Rahul: For the model, we resolved to use BART for summarization and zero-shot classification for decision extraction.
+Priya: Agreed. We'll go with facebook/bart-large-mnli for zero-shot and google/pegasus-meeting for summarization.
+Sneha: We need to have a working demo at least three days before submission. So demo should be ready by week five.
+Priya: Confirmed. Full working demo deadline is end of week five.
+Rahul: I will also write unit tests for all the NLP modules by week three.
+Priya: Great. We decided to use GitHub for version control. Everyone should push their work daily.
+Sneha: Agreed. We'll use feature branches and merge to main only after review.
+Priya: Alright. Next meeting is Saturday at 10 AM. Everyone come with your week one tasks done.
+Rahul: Sounds good. I will also share some research papers on meeting summarization by Friday.
+Priya: Perfect. Meeting closed.

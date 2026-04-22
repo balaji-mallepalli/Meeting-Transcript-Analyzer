@@ -1,0 +1,24 @@
+Meera: Let's begin. This meeting is to review Q2 budget and set priorities for the next quarter.
+Arjun: Looking at the numbers, we overspent on cloud infrastructure by about 20% last quarter.
+Priya: We decided to switch from AWS to a hybrid setup with DigitalOcean for non-critical workloads to cut costs.
+Meera: Agreed. Arjun, can you draft a migration plan for moving dev and staging servers to DigitalOcean?
+Arjun: Yes, I will have the migration plan ready by next Friday.
+Kiran: We also need to renegotiate our SaaS tool subscriptions. We're paying for tools nobody uses.
+Meera: Confirmed. We resolved to audit all active SaaS subscriptions this month and cancel unused ones.
+Kiran: I will complete the SaaS audit and send a report to everyone by April 25th.
+Priya: On the hiring side, we agreed to pause senior engineer hiring until June and focus on interns instead.
+Meera: Right. We'll proceed with hiring two ML interns for the summer cohort starting June 1st.
+Arjun: He mentioned the marketing budget needs a 15% increase for the product launch campaign.
+Meera: We approved a 15% increase in the Q3 marketing budget specifically for the launch campaign.
+Kiran: I need someone to own the vendor payments process. It's getting messy.
+Priya: I will take over the vendor payment coordination starting next week.
+Meera: Good. We also decided to move to bi-weekly finance reviews instead of monthly ones for better visibility.
+Arjun: Agreed. First bi-weekly review is scheduled for May 3rd.
+Kiran: We should also set up an expense approval workflow. We resolved to use Zoho Expense for all reimbursements going forward.
+Meera: Confirmed. Arjun, can you set up the Zoho Expense account and onboard the team?
+Arjun: Yes, I will set up Zoho Expense and send onboarding instructions to everyone by April 22nd.
+Priya: We need to finalize Q3 targets before end of this month. I will prepare the Q3 OKR draft by April 28th.
+Meera: Perfect. We'll review and approve the OKRs in our next meeting on April 30th.
+Kiran: One last thing — we agreed to set aside 10% of Q3 budget as a contingency reserve.
+Meera: Confirmed. 10% contingency reserve is now part of the Q3 budget plan.
+Meera: Alright, that covers everything. Good meeting everyone.
